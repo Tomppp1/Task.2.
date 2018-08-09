@@ -1,0 +1,11 @@
+article{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    background: url(Image/robot.jpg) no-repeat top right;
+    
+}
+.gif{
+    margin:0 auto;
+    display: block;
+}
